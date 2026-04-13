@@ -1,0 +1,12 @@
+name: bian_que_app
+description: 扁鹊飞救 App
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
